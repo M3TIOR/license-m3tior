@@ -157,12 +157,12 @@ Section 2 – Scope.
 
 
 a.
- .. raw:: html
-    <div id="s2a">
- .. raw:: html
-    </div>
+   .. raw:: html
+      <div id="s2a">
+   .. raw:: html
+      </div>
 
- **License grant**.
+   **License grant**.
 
    1.
       .. raw:: html
@@ -484,7 +484,7 @@ Licensed Rights include other Copyright and Similar Rights.
 
 Section 5
 – Disclaimer of Warranties and Limitation of Liability.
----------------------------------------------------------
+-----------------------------------------------------------------------
 
 
 a.
